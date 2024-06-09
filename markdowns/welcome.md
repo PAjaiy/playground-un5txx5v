@@ -1,6 +1,6 @@
 # Introduction
 
-So, you've just signed up to CodinGame and just finished the "Onboarding" puzzle, and have no idea on what to do next. Well, don't worry, since this playground will give you a basic idea of all the types of statements and algorithms needed to get a good head-start.
+So, you've signed up to CodinGame and just finished the "Onboarding" puzzle, and have no idea on what to do next. Well, don't worry, since this playground will give you a basic idea of all the types of statements and algorithms needed to get a good head-start.
 
 This playground is written in Python3, since it's a very beginner-friendly and powerful language.
 
